@@ -1,0 +1,4 @@
+this file is created under branch named as branch1
+branch created using git branch branchname
+then switch to this branch using git checkout branchname
+
