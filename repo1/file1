@@ -1,3 +1,6 @@
 this file is created unde repo1 folder
 here repo1 is created by using mkdir 
-this file is to created to understand the concept of local repo central repo how to push code etc.
+this file is to created to understand the concept of local repo central repo how to push code etc
+you can go into your repo by cd repo name
+view your files using ls -l
+now after modifying file use git add filename
